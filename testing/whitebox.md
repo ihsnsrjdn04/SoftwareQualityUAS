@@ -126,9 +126,6 @@ Contoh:
 | 10 | 10 | 100 |
 | 5 | 10 | 50 |
 
-### Kesimpulan
-
-Logika perhitungan nilai sudah sesuai dengan kebutuhan sistem CBT.
 
 ---
 
@@ -363,6 +360,4 @@ users.filter(u => u.email !== email)
 
 ---
 
-# Kesimpulan
 
-Berdasarkan pengujian White Box Testing yang dilakukan, seluruh fungsi utama pada sistem CBT telah berjalan sesuai logika yang dirancang. Ditemukan satu potensi kesalahan pada fungsi `calculateScore()` ketika nilai `total = 0`, sehingga diperlukan validasi tambahan untuk mencegah terjadinya pembagian dengan nol. Selain temuan tersebut, seluruh jalur eksekusi, alur data, dan proses perulangan berhasil diuji dan berjalan dengan baik.
