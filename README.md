@@ -11,7 +11,8 @@ Kelompok 8
 ## Anggota Kelompok
 1. Rangga Firmansyah - 20231310083  
 2. Muhammad Ihsan Sirojuddin - 20231310093  
-3. Ahmad Jalaludin - 20231310090  
+3. Ahmad Jalaludin - 20231310090
+4. Akhmad Fatikhur Rizki - 20231310104
 
 ---
 
