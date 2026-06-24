@@ -12,13 +12,13 @@ Kelompok 8
 1. Rangga Firmansyah - 20231310083  
 2. Muhammad Ihsan Sirojuddin - 20231310093  
 3. Ahmad Jalaludin - 20231310090
-4. Akhmad Fatikhur Rizki - 20231310104
+4. Akhmad Fatikhur Rizky - 20231310104
 
 ---
 
 ## Deskripsi
 
-Repository ini digunakan untuk memenuhi tugas Ujian Tengah Semester(UTS) mata kuliah Software Quality.
+Repository ini digunakan untuk memenuhi tugas Ujian Akhir Semester(UAS) mata kuliah Software Quality.
 
 ---
 
